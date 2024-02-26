@@ -8,6 +8,10 @@ public class UIControllers : MonoBehaviour
 {
     public static UIControllers instance;
     public CustomPanelController customPanelController;
+    public GameObject menuPanel;
+    public GameObject settingsPanel;
+    public GameObject themesPanel;
+    public GameObject mainPanel;
 
     
 
